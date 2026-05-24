@@ -8,16 +8,16 @@ Additionally, the project highlights phishing risk classifications, attack mecha
 
 ## Scope of the Report
 
--Analysis of phishing emails targeting individuals and organisations
--Examination of multiple phishing attack scenarios and email samples
--Identification of phishing indicators and social engineering techniques
--Detection of spoofed sender domains and suspicious email content
--Analysis of suspicious URLs, urgency tactics, and credential harvesting attempts
--Email header investigation using MXToolbox and Google Admin Toolbox
--Risk classification and threat severity assessment of phishing emails
--Evaluation of possible cybersecurity and business impacts
--Discussion of phishing prevention strategies and security awareness practices
--Recommendations for safe email handling and phishing attack mitigation
+- Analysis of phishing emails targeting individuals and organisations
+- Examination of multiple phishing attack scenarios and email samples
+- Identification of phishing indicators and social engineering techniques
+- Detection of spoofed sender domains and suspicious email content
+- Analysis of suspicious URLs, urgency tactics, and credential harvesting attempts
+- Email header investigation using MXToolbox and Google Admin Toolbox
+- Risk classification and threat severity assessment of phishing emails
+- Evaluation of possible cybersecurity and business impacts
+- Discussion of phishing prevention strategies and security awareness practices
+- Recommendations for safe email handling and phishing attack mitigation
 
 ## Tools Used
 
@@ -29,15 +29,15 @@ Additionally, the project highlights phishing risk classifications, attack mecha
 
 ## Analysis Approach
 
--Collected multiple phishing email samples for cybersecurity awareness and educational analysis.
--Examined sender email addresses to identify spoofed or misleading domains.
--Analysed email subjects and message content for urgency tactics, social engineering techniques, and phishing behaviour.
--Inspected suspicious links and embedded URLs using safe passive analysis methods.
--Performed email header analysis using MXToolbox to identify suspicious routing information and sender infrastructure.
--Used Google Admin Toolbox Messageheader to examine email delivery paths and header inconsistencies.
--Identified common phishing indicators such as credential requests, fake security alerts, payment scams, and malicious download links.
--Classified phishing samples according to their threat severity levels, including High Risk and Critical Risk categories.
--Evaluated the potential security impact of each phishing email on individuals and organisations.
--Developed prevention guidelines and employee awareness recommendations to reduce phishing-related risks.
--Conducted all analysis activities passively without interacting with malicious links or downloading harmful files.
+- Collected multiple phishing email samples for cybersecurity awareness and educational analysis.
+- Examined sender email addresses to identify spoofed or misleading domains.
+- Analysed email subjects and message content for urgency tactics, social engineering techniques, and phishing behaviour.
+- Inspected suspicious links and embedded URLs using safe passive analysis methods.
+- Performed email header analysis using MXToolbox to identify suspicious routing information and sender infrastructure.
+- Used Google Admin Toolbox Messageheader to examine email delivery paths and header inconsistencies.
+- Identified common phishing indicators such as credential requests, fake security alerts, payment scams, and malicious download links.
+- Classified phishing samples according to their threat severity levels, including High Risk and Critical Risk categories.
+- Evaluated the potential security impact of each phishing email on individuals and organisations.
+- Developed prevention guidelines and employee awareness recommendations to reduce phishing-related risks.
+- Conducted all analysis activities passively without interacting with malicious links or downloading harmful files.
 
